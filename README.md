@@ -18,3 +18,7 @@ Planning an event is often stressful, time-consuming, and fragmented. You have t
 - **Backend:** Node.js (Express)
 - **Database:** MongoDB / Firebase
 - **Cloud & APIs:** Cloudinary (images), Paystack (payments), Firebase (auth)
+## Low-Fidelity Wireframe
+Below is an early wireframe showing the user journey — from event setup to vendor booking and progress tracking.  
+This visual highlights our **mobile-first design** focused on simplicity and usability.
+<img width="478" height="228" alt="image" src="https://github.com/user-attachments/assets/799e25be-f3f5-40f4-9f72-742a2677cd39" />
